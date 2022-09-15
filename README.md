@@ -13,10 +13,10 @@ However, if some sort of structure exists in the data (ie. correlations between 
 
 **Applications of Autoencoder:**
 
-1- Dimensionality Reduction
+1- Dimensionality Reduction<br/>
 Dimensionality Reduction is the process of reducing the number of dimensions in the data either by excluding less useful features (Feature Selection) or transform the data into lower dimensions (Feature Extraction).
 
-2-Anomaly Detection\n 
+2-Anomaly Detection<br/> 
 Anomaly detection is the process of identifying unexpected items or events in data sets, which differ from the norm. And anomaly detection is often applied
 
 3-Denoising 
