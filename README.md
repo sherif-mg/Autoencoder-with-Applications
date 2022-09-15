@@ -6,7 +6,7 @@ Specifically, we'll design a neural network  architecture such that we impose a 
 
 Autoencoders  compress the input into a lower-dimensional code and then reconstruct the output from this representation. The code is a compact “summary” or “compression” of the input, also called the latent-space representation.
 
-![This is an image](https://myoctocat.com/assets/images/base-octocat.svg)
+![This is an image](https://github.com/sherif-mg/Autoencoder-with-Applications/blob/main/Autoencoder.png)
 
 If the input features were each independent of one another, this compression and subsequent reconstruction would be a very difficult task. 
 However, if some sort of structure exists in the data (ie. correlations between input features), this structure can be learned and consequently leveraged when forcing the input through the network's bottleneck.
